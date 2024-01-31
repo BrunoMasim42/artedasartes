@@ -17,12 +17,11 @@
     --main-color: rgb(211, 118, 18);
 }
 
-header{
-    background-color: #f7edc0;
- 
-    
-     
+body{
+    background-color: #fff;
 }
+
+
 
  .interface{
     width: 1280px;
@@ -117,7 +116,6 @@ section> .social-midia{
     height: 700px;
     align-items: center;
     justify-content: center;
-    background-color: #eeee995b;
     gap: 30px;
     margin-top: 50px;
   
@@ -249,7 +247,6 @@ section> .social-midia{
     height: 380px;
     align-items: center;
     margin-top: 50px;
-    background-color: #eeee99a0;
     margin-bottom: 30px;
 }
 .apoios{
@@ -443,7 +440,6 @@ form textarea::placeholder{
 .rodape .interface{
     width: 100%;
     display: inline-flex;
-    background-color: #f0d59aea;
     justify-content: center;
     align-items: center;
     color: #3e3e3e;
